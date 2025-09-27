@@ -1,3 +1,5 @@
+Project URL: https://roadmap.sh/projects/server-stats
+
 # DevOps Projects Roadmap
 
 A comprehensive collection of DevOps projects and scripts designed to enhance your DevOps skills and provide practical solutions for real-world scenarios. This repository follows the [Roadmap.sh DevOps learning path](https://roadmap.sh/devops) and contains hands-on projects that demonstrate various DevOps concepts, tools, and best practices.
