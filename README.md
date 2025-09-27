@@ -37,73 +37,6 @@ DevOps-Projects-Roadmap.sh/
 
 ---
 
-## 🎯 Learning Objectives
-
-This repository helps you master:
-
-- **System Administration**: Server monitoring, performance tuning, resource management
-- **Scripting & Automation**: Bash scripting, task automation, process management
-- **Monitoring & Observability**: System metrics, logging, alerting
-- **Security**: Access monitoring, failed login tracking, system hardening
-- **Infrastructure as Code**: Configuration management, deployment automation
-- **Containerization**: Docker, container orchestration, microservices
-- **CI/CD**: Continuous integration, continuous deployment, pipeline automation
-- **Cloud Platforms**: AWS, Azure, GCP, multi-cloud strategies
-- **Configuration Management**: Ansible, Puppet, Chef, Terraform
-- **Monitoring Tools**: Prometheus, Grafana, ELK stack, APM tools
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Linux/Unix system (Ubuntu, CentOS, RHEL, etc.)
-- Bash shell
-- Git
-- Basic understanding of command line operations
-- Sudo privileges (for some projects)
-
-### Quick Start
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/Kawal0508/DevOps-Projects-Roadmap.sh.git
-   cd DevOps-Projects-Roadmap.sh
-   ```
-
-2. **Navigate to a specific project**:
-   ```bash
-   cd "Server Performance Stats"
-   ```
-
-3. **Follow the project-specific README** for detailed setup and usage instructions.
-
-## 📚 Project Categories
-
-### 🔍 Monitoring & Observability
-- Server Performance Stats
-- [Future: Log Analysis Tools]
-- [Future: APM Implementation]
-
-### 🔧 Automation & Scripting
-- [Future: Infrastructure Automation]
-- [Future: Backup Automation]
-- [Future: Deployment Scripts]
-
-### 🐳 Containerization
-- [Future: Docker Projects]
-- [Future: Kubernetes Deployments]
-- [Future: Container Security]
-
-### ☁️ Cloud & Infrastructure
-- [Future: AWS Projects]
-- [Future: Terraform Modules]
-- [Future: Multi-Cloud Setup]
-
-### 🔒 Security & Compliance
-- [Future: Security Scanning]
-- [Future: Compliance Automation]
-- [Future: Access Management]
-
 ## 🤝 Contributing
 
 We welcome contributions! Here's how you can help:
@@ -138,25 +71,6 @@ Each project should include:
 - **Examples**: Real-world usage scenarios
 - **Troubleshooting**: Common issues and solutions
 - **Contributing**: How others can contribute to the project
-
-## 🏆 Learning Path
-
-This repository follows a structured learning path:
-
-1. **Beginner**: Basic scripting and system administration
-2. **Intermediate**: Automation, monitoring, and containerization
-3. **Advanced**: Cloud platforms, orchestration, and enterprise solutions
-4. **Expert**: Multi-cloud strategies, advanced security, and optimization
-
-## 📞 Support
-
-- **Issues**: Report bugs or request features via [GitHub Issues](https://github.com/Kawal0508/DevOps-Projects-Roadmap.sh/issues)
-- **Discussions**: Join community discussions in [GitHub Discussions](https://github.com/Kawal0508/DevOps-Projects-Roadmap.sh/discussions)
-- **Documentation**: Check individual project READMEs for specific help
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
