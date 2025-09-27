@@ -29,6 +29,8 @@ DevOps-Projects-Roadmap.sh/
 **Technologies**: Bash scripting, Linux system commands  
 **Description**: A comprehensive script that monitors server performance metrics including CPU usage, memory consumption, disk space, process analysis, and security monitoring.
 
+**Project URL**: https://roadmap.sh/projects/server-stats
+
 [📖 View Project Details](./Server%20Performance%20Stats/README.md)
 
 ---
