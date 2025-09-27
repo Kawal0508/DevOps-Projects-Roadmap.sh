@@ -8,7 +8,7 @@
 
 1. Clone or download the project:
    ```bash
-   git clone <your-repository-url>
+   git clone [github.com/Kawal0508/DevOps-Projects-Roadmap.sh](https://github.com/Kawal0508/DevOps-Projects-Roadmap.sh)
    cd "DevOps projects/Server Performance Stats"
    ```
 
@@ -77,7 +77,7 @@ Ensure your system has the required commands:
 - `lastb`
 
 ## Project URL
-This project is part of Roadmap.sh DevOps projects.
+This project is part of [Roadmap.sh](https://roadmap.sh/projects/server-stats) DevOps projects.
 [GitHub Repository](https://github.com/yourusername/server-performance-stats)
 
 ---
