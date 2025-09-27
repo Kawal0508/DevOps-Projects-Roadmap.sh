@@ -8,7 +8,7 @@
 
 1. Clone or download the project:
    ```bash
-   git clone [github.com/Kawal0508/DevOps-Projects-Roadmap.sh](https://github.com/Kawal0508/DevOps-Projects-Roadmap.sh)
+   git clone github.com/Kawal0508/DevOps-Projects-Roadmap.sh
    cd "DevOps projects/Server Performance Stats"
    ```
 
