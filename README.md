@@ -23,7 +23,9 @@ DevOps-Projects-Roadmap.sh/
 
 ## 🛠️ Available Projects
 
+
 ### 1. Server Performance Stats
+**Project URL**: https://roadmap.sh/projects/server-stats
 **Status**: ✅ Complete  
 **Focus**: System monitoring, performance analysis, resource utilization  
 **Technologies**: Bash scripting, Linux system commands  
