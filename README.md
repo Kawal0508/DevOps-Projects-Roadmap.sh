@@ -10,9 +10,15 @@ This repository serves as a practical learning resource for DevOps engineers, sy
 
 ```
 DevOps-Projects-Roadmap.sh/
-├── Server Performance Stats/          # System monitoring and performance analysis
-│   ├── Server_Stats.sh               # Performance monitoring script
+│
+├── Server Performance Stats/         # System monitoring and performance analysis
+│   ├── server_stats.sh               # Performance monitoring script
 │   └── README.md                     # Project-specific documentation
+│
+├── Log Archive Tool/                 # System Log archiving and organization 
+│   ├── log_archive.sh                # Log archive and management Script
+│   └── README.md                     # Project-specific documentation
+│
 ├── [Future Projects]/
 │   ├── [Project Name]/
 │   │   ├── [Scripts and Configs]/
@@ -24,7 +30,7 @@ DevOps-Projects-Roadmap.sh/
 ## 🛠️ Available Projects
 
 
-### 1. Server Performance Stats
+### 1. Server Performance Stats 📈📊
 
 **Status**: ✅ Complete  
 **Focus**: System monitoring, performance analysis, resource utilization  
@@ -34,6 +40,17 @@ DevOps-Projects-Roadmap.sh/
 **Project URL**: https://roadmap.sh/projects/server-stats
 
 [📖 View Project Details](./Server%20Performance%20Stats/README.md)
+
+### 2. Log Archive Tool ⚙️📝
+
+**Status**: ✅ Complete  
+**Focus**: Log management, archiving, and organization  
+**Technologies**: Bash scripting, Linux system commands  
+**Description**: A script that archives log files from specified directories, compresses them, and maintains organized log storage with proper permissions and logging.
+
+**Project URL**: https://roadmap.sh/projects/log-archive-tool
+
+[📖 View Project Details](./Log%20Archive%20Tool/README.md)
 
 ---
 
