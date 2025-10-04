@@ -19,6 +19,11 @@ DevOps-Projects-Roadmap.sh/
 │   ├── log_archive.sh                # Log archive and management Script
 │   └── README.md                     # Project-specific documentation
 │
+├── Nginx Log Analyser/
+│   ├── nginx_log_analyser.sh         # Main analysis script
+│   ├── nginx-access.log              # Sample nginx access log file
+|   └── README.md                     # Project-specific documentation
+|
 ├── [Future Projects]/
 │   ├── [Project Name]/
 │   │   ├── [Scripts and Configs]/
@@ -51,6 +56,17 @@ DevOps-Projects-Roadmap.sh/
 **Project URL**: https://roadmap.sh/projects/log-archive-tool
 
 [📖 View Project Details](./Log%20Archive%20Tool/README.md)
+
+### 3. Nginx Log Analyser ⚙️📊
+
+**Status**: ✅ Complete  
+**Focus**: Log analysis, web server monitoring, traffic insights  
+**Technologies**: Bash scripting, AWK, Linux system commands  
+**Description**: A script that analyzes nginx access logs to provide insights into web traffic patterns, including top IP addresses, most requested paths, and response status codes distribution.
+
+**Project URL**: https://roadmap.sh/projects/nginx-log-analyser
+
+[📖 View Project Details](./Nginix%20Log%20Analyser/README.md)
 
 ---
 

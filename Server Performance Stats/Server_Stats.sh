@@ -1,11 +1,5 @@
 #!/bin/bash
 
-# =============================================================================
-# Server Performance Statistics Script
-# =============================================================================
-# This script provides a comprehensive overview of server performance metrics
-# including system uptime, CPU usage, memory usage, disk usage, and top processes.
-# =============================================================================
 BLUE='\033[0;34m'
 RED='\033[0;31m'
 GREEN='\033[0;32m'
